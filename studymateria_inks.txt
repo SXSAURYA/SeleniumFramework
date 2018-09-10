@@ -16,6 +16,8 @@ http://www.software-testing-tutorials-automation.com/2014/12/downloading-file-us
 autoIT3
 http://www.softwaretestinghelp.com/autoit-tutorial-to-download-write-autoit-script/
 
+
+auTOIT2
 autoIT4
 https://www.seleniumeasy.com/selenium-tutorials/upload-a-file-using-selenium-webdriver-with-autoit
 
